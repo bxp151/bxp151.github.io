@@ -14,7 +14,7 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 
 <img src="https://miro.medium.com/max/1400/0*7EuVnbnoAu9yA4uU"/>
 
-</br>
+<br>
 ---
 
 ### Projects
@@ -22,7 +22,7 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 - [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
 <img src="./images/boston.jpeg" />
 
-</br>
+<br>
 ---
 
 ### Towards Data Science Articles
