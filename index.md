@@ -14,6 +14,13 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 
 ---
 
+### Projects
+
+-[Predicting median housing prices in Boston](https://github.com/bxp151/housing)
+
+
+---
+
 ### Towards Data Science Articles
 
 [Are you dropping too many correlated features?](https://towardsdatascience.com/are-you-dropping-too-many-correlated-features-d1c96654abe6)
