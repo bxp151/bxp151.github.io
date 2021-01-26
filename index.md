@@ -20,13 +20,14 @@
 ---
 
 
-### Category Name 2
+### Python Package exploretransform
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+I originally developed exploretransform for use in my own projects, but I figured it might be useful for others. My intention was to create a simple set of functions and classes that returned results in common Python data formats. This would enable practitioners to easily utilize the outputs or extend the original functions as part of their workflows.
+
+To install use: `pip install exploretransform`
+
+- [PYPI Page](https://pypi.org/project/exploretransform/)
+- [GitHub Repository](https://github.com/bxp151/exploretransform)
 
 ---
 
