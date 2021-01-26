@@ -6,7 +6,6 @@
 
 Exploretransform consists of a set of functions that accelerate exploratory data analysis. The functions return data in common Python data formats enabling practitioners to easily utilize or extend the outputs as part of their workflows.
 
-To install: 
 `pip install exploretransform`
 
 - [PYPI Page](https://pypi.org/project/exploretransform/)
