@@ -2,7 +2,7 @@
 
 ---
 
-### Towards Data Science Article
+### Towards Data Science Articles
 
 [Are you dropping too many correlated features?](https://towardsdatascience.com/are-you-dropping-too-many-correlated-features-d1c96654abe6)
 <img src="https://miro.medium.com/max/700/0*EJw_Da7iRkwGh21N"/>
