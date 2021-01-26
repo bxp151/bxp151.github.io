@@ -16,7 +16,7 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 
 ### Projects
 
--[Predicting median housing prices in Boston](https://github.com/bxp151/housing)
+- [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
 
 
 ---
