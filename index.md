@@ -37,7 +37,7 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 ---
 
 
-[Maximum likelihood the easy way](https://towardsdatascience.com/maximum-likelihood-the-easy-way-1f14c0e2a5ce) - Demonstration of Maximum Likelihood Estimation (MLE) using a simple example and then fitting a logistic regression model and how the concepts extend to GLMs.
+[Maximum likelihood the easy way](https://towardsdatascience.com/maximum-likelihood-the-easy-way-1f14c0e2a5ce) - Demonstration of Maximum Likelihood Estimation (MLE) using a simple example, fitting a logistic regression model, and finally linking these concepts to GLMs.
 <img src="https://miro.medium.com/max/700/0*YiRBPZGwtJQAxxNn"/>
 
 ---
