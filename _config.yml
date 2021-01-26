@@ -1,5 +1,5 @@
 title: Brian Pietracatella # your name (or website title) here
-logo: "/images/circle.png" # your photo (or logo) here
+logo: "/images/circle.png?raw=True" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Currently I am indepedently continuing my education and apply my knowledge to data science projects. 
   <br><br>
