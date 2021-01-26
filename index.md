@@ -9,6 +9,10 @@
 
 ---
 
+[Accelerate your exploratory data analysis](https://towardsdatascience.com/make-exploratory-data-analysis-eda-faster-74c434595bcf)
+<https://miro.medium.com/max/700/0*7EuVnbnoAu9yA4uU />
+
+---
 
 
 ### Category Name 2
