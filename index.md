@@ -11,7 +11,6 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 - [PYPI Page](https://pypi.org/project/exploretransform/)
 - [GitHub Repository](https://github.com/bxp151/exploretransform)
 - [Towards Data Science Article: Accelerate your exploratory data analysis](https://towardsdatascience.com/make-exploratory-data-analysis-eda-faster-74c434595bcf)
-# <img src="https://miro.medium.com/max/1400/0*7EuVnbnoAu9yA4uU"/>
 
 <br>
 ---
