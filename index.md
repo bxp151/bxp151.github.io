@@ -5,17 +5,11 @@
 ### Towards Data Science Article
 
 [Are you dropping too many correlated features?](https://towardsdatascience.com/are-you-dropping-too-many-correlated-features-d1c96654abe6)
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="https://miro.medium.com/max/700/0*EJw_Da7iRkwGh21N"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
 
 ### Category Name 2
 
