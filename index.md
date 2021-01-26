@@ -22,12 +22,13 @@
 
 ### Python Package exploretransform
 
-I originally developed exploretransform for use in my own projects, but I figured it might be useful for others. My intention was to create a simple set of functions and classes that returned results in common Python data formats. This would enable practitioners to easily utilize the outputs or extend the original functions as part of their workflows.
+I originally developed exploretransform for use in my own projects, but I thought it might be useful for others. My intention was to create a simple set of functions and classes that returned results in common Python data formats. This would enable practitioners to easily utilize the outputs or extend the original functions as part of their workflows.
 
 To install use: `pip install exploretransform`
 
 - [PYPI Page](https://pypi.org/project/exploretransform/)
 - [GitHub Repository](https://github.com/bxp151/exploretransform)
+- [Towards Data Science Article](https://towardsdatascience.com/make-exploratory-data-analysis-eda-faster-74c434595bcf)
 
 ---
 
