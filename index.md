@@ -14,6 +14,11 @@
 
 ---
 
+[Building machine learning intuition through play](https://towardsdatascience.com/building-machine-learning-intuition-through-play-2065fe487d46)
+<img src="https://miro.medium.com/max/700/0*uUyUNGhI43p4MRS8"/>
+
+---
+
 
 ### Category Name 2
 
