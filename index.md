@@ -29,6 +29,12 @@ To install:
 ---
 
 
+[https://towardsdatascience.com/maximum-likelihood-the-easy-way-1f14c0e2a5ce](https://towardsdatascience.com/maximum-likelihood-the-easy-way-1f14c0e2a5ce)
+<img src="https://miro.medium.com/max/700/0*YiRBPZGwtJQAxxNn"/>
+
+---
+
+
 
 
 
