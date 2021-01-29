@@ -1,7 +1,6 @@
 ## Select Projects
 
 ---
-<br>
 
 ### PYPI package exploretransform
 
