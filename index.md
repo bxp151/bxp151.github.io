@@ -3,7 +3,7 @@
 ---
 <br>
 
-### Software Development: PYPI Package Exploretransform
+### Software Development: PYPI package exploretransform
 
 `pip install exploretransform`
 
