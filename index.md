@@ -1,8 +1,13 @@
-## Software Development
+## Data Science Portfolio
 
-- PYPI Package exploretransform: exploretransform consists of a set of functions that accelerate exploratory data analysis. The functions return data in common Python data formats enabling practitioners to easily utilize or extend the outputs as part of their workflows.
+---
+<br>
+
+### Software Development: PYPI Package Exploretransform
 
 `pip install exploretransform`
+
+Exploretransform consists of a set of functions that accelerate exploratory data analysis. The functions return data in common Python data formats enabling practitioners to easily utilize or extend the outputs as part of their workflows.
 
 - [PYPI Page](https://pypi.org/project/exploretransform/)
 - [GitHub Repository](https://github.com/bxp151/exploretransform)
@@ -10,7 +15,7 @@
 <br>
 ---
 
-## Data Science Projects
+### Data Science Projects
 
 - [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
 <img src="./images/boston.jpeg" />
@@ -18,7 +23,7 @@
 <br>
 ---
 
-## Towards Data Science Articles
+### Towards Data Science Articles
 
 - [Are you dropping too many correlated features?](https://towardsdatascience.com/are-you-dropping-too-many-correlated-features-d1c96654abe6) - Some commonly used correlation filtering methods have a tendency to drop more features than required. This problem is amplified as datasets become larger and with more pairwise correlations above a specified threshold. If we drop more variables than necessary, less information will be available potentially leading to suboptimal model performance
 <img src="https://miro.medium.com/max/700/0*EJw_Da7iRkwGh21N"/>
