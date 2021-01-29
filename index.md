@@ -36,23 +36,13 @@ Data scientists spend 60% of their time on cleaning and organizing data. This ar
 
 ---
 
-
-- [Building machine learning intuition through play](https://towardsdatascience.com/building-machine-learning-intuition-through-play-2065fe487d46) - Using maximum likelihood to show why we minimize the sum of squared residuals in linear regression
-<img src="https://miro.medium.com/max/700/0*uUyUNGhI43p4MRS8"/>
-
----
-
-
 - [Maximum likelihood the easy way](https://towardsdatascience.com/maximum-likelihood-the-easy-way-1f14c0e2a5ce) - Demonstration of Maximum Likelihood Estimation (MLE) using a simple example, fitting a logistic regression model, and finally linking these concepts to GLMs.
 <img src="https://miro.medium.com/max/700/0*YiRBPZGwtJQAxxNn"/>
 
 ---
 
 
-
-
-
+- [Building machine learning intuition through play](https://towardsdatascience.com/building-machine-learning-intuition-through-play-2065fe487d46) - Using maximum likelihood to show why we minimize the sum of squared residuals in linear regression
+<img src="https://miro.medium.com/max/700/0*uUyUNGhI43p4MRS8"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
