@@ -1,4 +1,6 @@
-## Software Development: PYPI Package Exploretransform
+## Software Development
+
+PYPI Package Exploretransform
 
 `pip install exploretransform`
 
