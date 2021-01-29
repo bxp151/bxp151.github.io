@@ -1,10 +1,10 @@
 title: Brian Pietracatella # your name (or website title) here
 logo: "/images/portfolio.jpg?raw=True" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Currently I am continuing my education indepedently and applying my knowledge to data science projects. 
-  <br><br>
+  Currently I am continuing my education and working on various data science projects. 
+  <br>
   Previously, I graduated with a Masters in Analytics from the Institute of Advanced Analytics in 2019.
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/brianpietracatella/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
