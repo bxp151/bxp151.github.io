@@ -30,7 +30,7 @@ Exploretransform consists of a set of functions that accelerate exploratory data
 
 ---
 
-- [Accelerate your exploratory data analysis with exploretransform](https://towardsdatascience.com/make-exploratory-data-analysis-eda-faster-74c434595bcf)
+- [Accelerate your exploratory data analysis with exploretransform](https://towardsdatascience.com/make-exploratory-data-analysis-eda-faster-74c434595bcf) - 
 Data scientists spend 60% of their time on cleaning and organizing data. This article demonstrates the exploretransform package which can help save time during exploratory data analysis. 
 <img src="https://miro.medium.com/max/700/0*7EuVnbnoAu9yA4uU"/>
 
