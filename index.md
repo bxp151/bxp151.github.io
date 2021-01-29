@@ -1,4 +1,4 @@
-## Selected Projects
+## Select Projects
 
 ---
 <br>
