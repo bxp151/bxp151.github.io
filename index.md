@@ -13,6 +13,14 @@
 
 ### Data Science Projects
 
+- [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs)
+<img src="./images/cars.jpeg" />
+
+<br>
+---
+
+
+
 - [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
 <img src="./images/boston.jpeg" />
 
