@@ -14,7 +14,7 @@
 ### Data Science Projects
 
 - [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs)
-<img src="./images/cars.jpeg" />
+<img src="./images/cars.jpg" />
 
 <br>
 ---
