@@ -19,6 +19,12 @@
 <br>
 ---
 
+- [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
+<img src="./images/boston.jpeg" />
+
+<br>
+---
+
 
 - [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs)
 <img src="./images/cars.jpg" />
@@ -26,13 +32,6 @@
 <br>
 ---
 
-
-
-- [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
-<img src="./images/boston.jpeg" />
-
-<br>
----
 
 ### Towards Data Science Articles
 
