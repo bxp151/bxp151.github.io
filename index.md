@@ -13,6 +13,13 @@
 
 ### Data Science Projects
 
+- [(IN-PROGRESS) Predicting Craigslist car prices](https://github.com/bxp151/usedcars)
+<img src="./images/usedcars.jpg" />
+
+<br>
+---
+
+
 - [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs)
 <img src="./images/cars.jpg" />
 
