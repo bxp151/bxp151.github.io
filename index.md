@@ -19,14 +19,7 @@
 <br>
 ---
 
-- [Predicting median housing prices in Boston](https://github.com/bxp151/housing)
-<img src="./images/boston.jpeg" />
-
-<br>
----
-
-
-- [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs)
+- [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs) - Financial institutions have incurred significant losses due to vehicle loans defaults. This has led to the restriction of vehicle loan underwriting and increased vehicle loan rejection rates. LTFS India has provided data to help improve their credit scoring model by predicting the occurrence of vehicle loan defaults.
 <img src="./images/cars.jpg" />
 
 <br>
