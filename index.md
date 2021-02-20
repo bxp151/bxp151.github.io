@@ -13,7 +13,7 @@
 
 ### Data Science Projects
 
-- [(IN-PROGRESS) Predicting Craigslist car prices](https://github.com/bxp151/usedcars) - The objective is to predict prices for passenger vehicles on craigslist using every used vehicle posted for sale in United States on Craigslist from October 23, 2020 to December 3, 2020. I am using NHTSA's VIN decoder API to capture verifiable information about each vehicle and used Google's Geocoding API to retrieve location information.  I have also built a text classifier initially using DistilBERT and finally Google BERT to classify each sale as either private or dealer based on the description.
+- [(IN-PROGRESS) Predicting Craigslist car prices](https://github.com/bxp151/usedcars) - The objective is to predict prices for passenger vehicles on craigslist using every used vehicle posted for sale in United States on Craigslist from October 23, 2020 to December 3, 2020. I am using NHTSA's VIN decoder API to capture verifiable information about each vehicle and used Google's Geocoding API to retrieve location information.  I have also built a text classifier initially using DistilBERT and Google BERT to classify each sale as either private or dealer based on the description.
 <img src="./images/usedcars.jpg" />
 
 <br>
