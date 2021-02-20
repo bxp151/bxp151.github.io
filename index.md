@@ -19,7 +19,7 @@
 <br>
 ---
 
-- [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs) - Financial institutions have incurred significant losses due to vehicle loans defaults. This has led to the restriction of vehicle loan underwriting and increased vehicle loan rejection rates. LTFS India has provided data to help improve their credit scoring model by predicting the occurrence of vehicle loan defaults.
+- [Predicting vehicle loan defaults](https://github.com/bxp151/ltfs) - Financial institutions have incurred significant losses due to vehicle loans defaults. This has led to the restriction of vehicle loan underwriting and increased vehicle loan rejection rates. As part of a hackathon, LTFS India has provided data that I used to predict the occurrence of vehicle loan defaults.
 <img src="./images/cars.jpg" />
 
 <br>
