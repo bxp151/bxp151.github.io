@@ -13,7 +13,7 @@
 
 ### Data Science Projects
 
-- [(IN-PROGRESS) Predicting car prices](https://github.com/bxp151/usedcars) - The [initial data set](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) includes every used vehicle posted for sale in United States on Craigslist from October 23, 2020 to December 3, 2020.  I utilized [NHTSA's VIN decoder API](https://vpic.nhtsa.dot.gov/api/) to capture verifiable information about each vehicle and combined it with the initial data set.  I then used [Google's Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview) to retrieve latitude and longitude numbers based on the region URLs.  I also trained two text classifiers using [DistilBERT](https://huggingface.co/transformers/model_doc/distilbert.html) and [Google BERT](https://huggingface.co/transformers/model_doc/bert.html) to classify each sale as either private or dealer based on the seller description.
+- [(IN-PROGRESS) Predicting car prices](https://github.com/bxp151/usedcars) - The base dataset includes every used vehicle posted for sale in United States on Craigslist from October 23, 2020 to December 3, 2020.  I utilized NHTSA's VIN decoder API to capture verifiable information about each vehicle and combined it with the initial data set.  I then used Google's Geocoding API to retrieve latitude and longitude numbers based on the region URLs.  I also trained two text classifiers using DistilBERT and Google BERTto classify each sale as either private or dealer based on the seller description.
 <img src="./images/usedcars.jpg" />
 
 <br>
